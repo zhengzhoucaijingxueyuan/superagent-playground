@@ -1,3 +1,3 @@
 # superagent-playground
 
-This repository is used for dsh-superagent trialll (demo).
+This repository is used for dsh-superagent trial (demo).
